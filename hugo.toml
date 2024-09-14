@@ -1,0 +1,4 @@
+baseURL = 'https://hugotest.reclusiveurbanist.com/'
+languageCode = 'en-us'
+title = 'Test - Hugo subdomain'
+theme = 'ananke'
